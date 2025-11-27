@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1073179784206",
+    "project_id": "dospire-app",
+    "storage_bucket": "dospire-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073179784206:android:ce4ceee387873e725f385f",
+        "android_client_info": {
+          "package_name": "com.dospire.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5KKmJ6KKmni7wcc_iqCf4x2WLkXNmfSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073179784206:android:5fc3141ad2aedcd25f385f",
+        "android_client_info": {
+          "package_name": "com.example.dospire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5KKmJ6KKmni7wcc_iqCf4x2WLkXNmfSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
